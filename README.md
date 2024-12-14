@@ -13,6 +13,7 @@ representation of home purchases (one family homes are the highest at 50 purchas
 - Simultaneously, the last chart draws attention to the distribution of tax claims based on income. The majority of verifiable claims, as
 depicted by “Income Distribution and Tax Claims”, emanate from individuals with an earned income falling within the $8,001 to
 $12,000 range.
+
 In conclusion, there is a significant difference in finances across neighborhoods in NYC. Single family houses in select neighborhoods tend to prosper financially. At the same time, lower income residents are highly represented in One Child Qualifying Claims as the average qualifying credit continues to increase.
 
 # *Properties, Sales, and Purchases*
